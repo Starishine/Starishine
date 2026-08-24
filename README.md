@@ -6,7 +6,9 @@ I enjoy working across the stack — from designing APIs and databases to buildi
 
 <a href='https://www.linkedin.com/in/sania-bawa-amarnath-539b54240/'><img align='left' alt="linkedin" src="./assets/linkedin-svgrepo-com.svg" height='18px' style="margin-right: 10px;" /></a>
 
-<a href='mailto:sania.amarnath@gmail.com'><img align='left' alt="email" src="./assets/google-gmail-svgrepo-com.svg" height='18px'/></a><br>
+<a href='mailto:sania.amarnath@gmail.com'><img align='left' alt="email" src="./assets/google-gmail-svgrepo-com.svg" height='18px' height='18px' style="margin-right: 10px;"/></a>
+
+<a href='./resume/BAWA AMARNATH SANIA_RESUME FINAL - 1.pdf'><img align='left' alt="resume" src="./assets/Curriculum-vitae-warning-icon.svg" height='20px'/></a><br>
 
 
 ## 🧐 More About Me
@@ -107,7 +109,7 @@ A desktop application designed to help tutors manage their teaching-related task
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starishine&theme=github_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starishine&theme=github_dark" width="75%"/>
 </p>
 
 
