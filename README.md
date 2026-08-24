@@ -104,11 +104,10 @@ A desktop application designed to help tutors manage their teaching-related task
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Starishine&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starishine&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Starishine&theme=github_dark" width="100%"/>
 </p>
 
 
